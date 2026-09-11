@@ -1,0 +1,15 @@
+{
+  "name": "explain-like-im-stoned",
+  "version": "0.1.0",
+  "description": "Explain It Like I'm Stoned — AI that talks to the brain you have right now.",
+  "owner": { "name": "Eric Linder" },
+  "plugins": [
+    {
+      "name": "stoned",
+      "displayName": "Explain It Like I'm Stoned",
+      "description": "One idea at a time. Re-anchors every step. Never makes you feel dumb. Stops you before anything you can't undo, and writes notes to sober-you.",
+      "category": "productivity",
+      "source": "./"
+    }
+  ]
+}

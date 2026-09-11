@@ -1,0 +1,9 @@
+{
+  "name": "stoned",
+  "description": "Explain It Like I'm Stoned — a real communication mode for a high brain: one idea at a time, re-anchors every step, never punishes repetition, plain-words confirmation before anything irreversible, and a notes-to-sober-you log. Three strains plus a 'too high' setting.",
+  "version": "0.1.0",
+  "author": { "name": "Eric Linder" },
+  "homepage": "https://github.com/explain-like-im-stoned/explain-like-im-stoned",
+  "license": "MIT",
+  "keywords": ["output-style", "plain-language", "accessibility", "focus", "stoned"]
+}
