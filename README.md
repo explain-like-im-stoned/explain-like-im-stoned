@@ -1,14 +1,15 @@
 # Explain It Like I'm Stoned
 
-AI that talks to the brain you have right now.
+The high brain is a good brain. This makes sure the morning agrees.
 
-Not a bit. Not a surfer-bro voice. A real way of communicating for a brain
-that's holding less at once, losing the thread, and a little nervous in front
-of a wall of text. Which, honestly, is a lot of us at 11pm.
+Not a bit. Not a surfer-bro voice. A file you give ChatGPT or Claude so that at
+1am, when the ideas are coming faster than you can type, the AI keeps up with
+you instead of raising you six more options — then picks the one worth
+building, parks the rest so they're not lost, catches anything you can't undo,
+and leaves morning-you a clean note.
 
-**One idea per message. It re-anchors before every step. It never makes you
-feel dumb for asking twice. It stops you before anything you can't undo. And
-it writes notes to sober-you.**
+**Keeps pace. Picks one. Parks the rest in `ideas-from-tonight.md`. Won't let
+you do anything you can't undo. Writes `notes-to-sober-you.md`.**
 
 ## Install
 
@@ -41,9 +42,11 @@ anything that can't be undone — deleting, sending, spending, publishing,
 force-pushing — it stops, says in plain words what's about to happen, and
 waits for a real yes. "Sure" and "whatever" don't count.
 
-It also keeps `notes-to-sober-you.md`: what you did, why, what you weren't
-sure about, what to check tomorrow. Written for a rested person with coffee
-who does not remember tonight.
+It also keeps two files. `ideas-from-tonight.md`: every idea you swerved to,
+one line each, so the good ones survive and you keep building. And
+`notes-to-sober-you.md`: what you did, why, what you weren't sure about, what
+to check tomorrow — written for a rested person with coffee who does not
+remember tonight.
 
 ## The whole thing is one page
 
